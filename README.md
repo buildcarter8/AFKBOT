@@ -1,0 +1,4 @@
+AFKBOT
+======
+
+AFK BOT Plugin
